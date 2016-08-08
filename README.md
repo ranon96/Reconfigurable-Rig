@@ -1,2 +1,10 @@
-# Reconfigurable-Rig
-This is a KAP rig which is designed to be easily reconfigurable to accommodate landscape/portrait camera orientations, servo/rubber band powered pan and tilt mechanisms, and use with kites and balloons.
+## Reconfigurable Rig
+
+![Reconfigurable Rig Landscape.png](file:///Users/ranonpritchard/Desktop/Reconfigurable%20Rig%20Configuration%20Renders.png)
+  
+  
+This is a reconfigurable KAP rig designed to be compatible with kites, balloons, and poles. 
+
+![Rubber Band usage.png](file:///Users/ranonpritchard/Desktop/Rubber%20Band%20Usage.png)
+
+It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a design by Simon Harbord.
