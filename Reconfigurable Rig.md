@@ -1,6 +1,6 @@
 ## Reconfigurable Rig
 
-![Reconfigurable Rig Landscape.png](file:///Users/ranonpritchard/Desktop/Reconfigurable-Rig/Reconfigurable%20Rig%20Configuration%20Renders.png)
+![Rubber Band Usage.png](/https://flic.kr/p/KXX3Pi/Rubber Band Usage.png)
   
   
 This is a reconfigurable KAP rig designed to be compatible with kites, balloons, and poles. 
