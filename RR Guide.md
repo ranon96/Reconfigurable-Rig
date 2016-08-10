@@ -1,5 +1,5 @@
 
-![FrontPage.png](FrontPage.png)
+![FrontPage.png](/Assembly_Guide_Pictures/FrontPage.png)
 
 
 ![Header(PartsList).png](Header(PartsList).png)
