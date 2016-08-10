@@ -33,7 +33,7 @@
 
 
 
-![Step2Components(Landscape).png](Step2Components(/Assembly_Guide_Pictures/Landscape).png)
+![Step2Components(Landscape).png](/Assembly_Guide_Pictures/Step2Components(Landscape).png)
 
 
 
@@ -129,7 +129,7 @@
 ![Step4Assembly(Portrait).png](/Assembly_Guide_Pictures/Step4Assembly(Portrait).png)
 
 
-![PortraitRigComplete.png](PortraitRigComplete.png)
+![PortraitRigComplete.png](/Assembly_Guide_Pictures/PortraitRigComplete.png)
 
 
 ![Header(SP).png](/Assembly_Guide_Pictures/Header(SP).png)
