@@ -232,3 +232,7 @@
 
 
 ![BothRigsComplete.png](/Assembly_Guide_Pictures/BothRigsComplete.png)
+
+![Usage(SP).png](/Assembly_Guide_Pictures/Usage(SP).png)
+
+![Usage(Pendulum).png](/Assembly_Guide_Pictures/Usage(Pendulum).png)
