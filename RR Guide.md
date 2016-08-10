@@ -233,6 +233,22 @@
 
 ![BothRigsComplete.png](/Assembly_Guide_Pictures/BothRigsComplete.png)
 
+![Header(Pole).png](/Assembly_Guide_Pictures/Header(Pole).png)
+
+![Step1Components(Pole).png](/Assembly_Guide_Pictures/Step1Components(Pole).png)
+
+![Step1Assembly(Pole).png](/Assembly_Guide_Pictures/Step1Assembly(Pole).png)
+
+![Step2Components(Pole).png](/Assembly_Guide_Pictures/Step2Components(Pole).png)
+
+![Step2Assembly(Pole).png](/Assembly_Guide_Pictures/Step2Assembly(Pole).png)
+
+![Step3Components(Pole).png](/Assembly_Guide_Pictures/Step3Components(Pole).png)
+
+![Step3Assembly(Pole).png](/Assembly_Guide_Pictures/Step3Assembly(Pole).png)
+
+![Complete(Pole).png](/Assembly_Guide_Pictures/Complete(Pole).png)
+
 ![Usage(SP).png](/Assembly_Guide_Pictures/Usage(SP).png)
 
 ![Usage(Pendulum).png](/Assembly_Guide_Pictures/Usage(Pendulum).png)
