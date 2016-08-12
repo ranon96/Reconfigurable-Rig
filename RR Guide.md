@@ -279,7 +279,5 @@
 
 ![DesignNote(ToothWasher).png](/Assembly_Guide_Pictures/DesignNote(ToothWasher).png)
 
-![DesignNote(ThumbScrew).png](/Assembly_Guide_Pictures/DesignNote(ThumbScrew).png)
-
 ![DesignNote(WoodScrew).png](/Assembly_Guide_Pictures/DesignNote(WoodScrew).png)
 
