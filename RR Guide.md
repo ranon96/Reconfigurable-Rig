@@ -7,19 +7,19 @@
 
 [Landscape Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#landscape-rig-assembly)
 
-[Portrait Rig Assembly]()
+[Portrait Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#portrait-rig-assembly)
 
-[Silly Putty Pan Mechanism Assembly](/Assembly_Guide_Pictures/Header(SP).png)
+[Silly Putty Pan Mechanism Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#silly-putty-pan-mechanism-assembly)
 
-[Pendulum Assembly](/Assembly_Guide_Pictures/Header(Pendulum).png)
+[Pendulum Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#pendulum-assembly)
 
-[Connections](/Assembly_Guide_Pictures/Header(PendulumtoSP).png)
+[Connections](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#connections)
 
-[Pole Rig Assembly](/Assembly_Guide_Pictures/Header(Pole).png)
+[Pole Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#pole-rig-assembly)
 
-[Usage Notes](#Usage_Notes)
+[Usage Notes](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#usage-notes)
 
-[Part Notes](/Asssembly_Guide_Pictures#Header)
+[Design Notes on Parts](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#part-notes)
 
 #Parts List
 
@@ -275,9 +275,8 @@
 
 ![Usage(Pendulum).png](/Assembly_Guide_Pictures/Usage(Pendulum).png)
 
-![Header(DesignNotes).png](/Assembly_Guide_Pictures/Header(DesignNotes).png)
 
-#Part Notes
+#Design Notes on Parts
 
 ![DesignNote(ThumbScrew).png](/Assembly_Guide_Pictures/DesignNote(ThumbScrew).png)
 
