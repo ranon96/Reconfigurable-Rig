@@ -3,9 +3,9 @@
 
 #Table of Contents
 
-[Landscape Assembly](/Assembly_Guide_Pictures##Landscape_Rig_Assembly)
+[Landscape Rig Assembly](/##Landscape_Rig_Assembly)
 
-[Portrait Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
+[Portrait Rig Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
 
 [Silly Putty Pan Mechanism Assembly](/Assembly_Guide_Pictures/Header(SP).png)
 
