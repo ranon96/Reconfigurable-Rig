@@ -3,7 +3,7 @@
 
 #Table of Contents
 
-[Landscape Assembly](/Assembly_Guide_Pictures/Header(Landscape).png)
+[Landscape Assembly](/Assembly_Guide_Pictures##Landscape_Rig_Assembly)
 
 [Portrait Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
 
@@ -15,9 +15,9 @@
 
 [Pole Rig Assembly](/Assembly_Guide_Pictures/Header(Pole).png)
 
-[Part Notes](/Asssembly_Guide_Pictures/Header(DesignNotes).png)
+[Part Notes](/Asssembly_Guide_Pictures#Header)
 
-![Header(PartsList).png](/Assembly_Guide_Pictures/Header(PartsList).png)
+##Parts List
 
 
 ![PartsListLine1.png](/Assembly_Guide_Pictures/PartsListLine1.png)
@@ -35,7 +35,7 @@
 ![PartsListLine5.png](/Assembly_Guide_Pictures/PartsListLine5.png)
 
 
-![Header(Landscape).png](/Assembly_Guide_Pictures/Header(Landscape).png)
+##Landscape Rig Assembly
 
 
 
@@ -117,7 +117,7 @@
 ![LandscapeRigComplete.png](/Assembly_Guide_Pictures/LandscapeRigComplete.png)
 
 
-![Header(Portrait).png](/Assembly_Guide_Pictures/Header(Portrait).png)
+##Portrait Rig Assembly
 
 
 ![Step1Components(Portrait).png](/Assembly_Guide_Pictures/Step1Components(Portrait).png)
@@ -147,7 +147,7 @@
 ![PortraitRigComplete.png](/Assembly_Guide_Pictures/PortraitRigComplete.png)
 
 
-![Header(SP).png](/Assembly_Guide_Pictures/Header(SP).png)
+##Silly Putty Pan Mechanism Assembly
 
 
 ![Step1Components(SPPan).png](/Assembly_Guide_Pictures/Step1Components(SPPan).png)
@@ -196,7 +196,7 @@
 
 
 
-![Header(Pendulum).png](/Assembly_Guide_Pictures/Header(Pendulum).png)
+##Pendulum Assembly
 
 
 
@@ -219,6 +219,7 @@
 
 ![PendulumComplete.png](/Assembly_Guide_Pictures/PendulumComplete.png)
 
+##Connections
 
 ![Header(PendulumtoSP).png](/Assembly_Guide_Pictures/Header(PendulumtoSP).png)
 
@@ -248,7 +249,7 @@
 
 ![BothRigsComplete.png](/Assembly_Guide_Pictures/BothRigsComplete.png)
 
-![Header(Pole).png](/Assembly_Guide_Pictures/Header(Pole).png)
+##Pole Rig Assembly
 
 ![Step1Components(Pole).png](/Assembly_Guide_Pictures/Step1Components(Pole).png)
 
@@ -264,11 +265,15 @@
 
 ![Complete(Pole).png](/Assembly_Guide_Pictures/Complete(Pole).png)
 
+##Usage Notes
+
 ![Usage(SP).png](/Assembly_Guide_Pictures/Usage(SP).png)
 
 ![Usage(Pendulum).png](/Assembly_Guide_Pictures/Usage(Pendulum).png)
 
 ![Header(DesignNotes).png](/Assembly_Guide_Pictures/Header(DesignNotes).png)
+
+##Part Notes
 
 ![DesignNote(ThumbScrew).png](/Assembly_Guide_Pictures/DesignNote(ThumbScrew).png)
 
