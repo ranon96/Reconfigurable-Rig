@@ -1,6 +1,21 @@
 
 ![FrontPage.png](/Assembly_Guide_Pictures/FrontPage.png)
 
+#Table of Contents
+
+[Landscape Assembly](/Assembly_Guide_Pictures/Header(Landscape).png)
+
+[Portrait Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
+
+[Silly Putty Pan Mechanism Assembly](/Assembly_Guide_Pictures/Header(SP).png)
+
+[Pendulum Assembly](/Assembly_Guide_Pictures/Header(Pendulum).png)
+
+[Connections](/Assembly_Guide_Pictures/Header(PendulumtoSP).png)
+
+[Pole Rig Assembly](/Assembly_Guide_Pictures/Header(Pole).png)
+
+[Part Notes](/Asssembly_Guide_Pictures/Header(DesignNotes).png)
 
 ![Header(PartsList).png](/Assembly_Guide_Pictures/Header(PartsList).png)
 
