@@ -17,9 +17,11 @@
 
 [Pole Rig Assembly](/Assembly_Guide_Pictures/Header(Pole).png)
 
+[Usage Notes](#Usage_Notes)
+
 [Part Notes](/Asssembly_Guide_Pictures#Header)
 
-##Parts List
+#Parts List
 
 
 ![PartsListLine1.png](/Assembly_Guide_Pictures/PartsListLine1.png)
@@ -37,7 +39,7 @@
 ![PartsListLine5.png](/Assembly_Guide_Pictures/PartsListLine5.png)
 
 
-##Landscape Rig Assembly
+#Landscape Rig Assembly
 
 
 
@@ -149,7 +151,7 @@
 ![PortraitRigComplete.png](/Assembly_Guide_Pictures/PortraitRigComplete.png)
 
 
-##Silly Putty Pan Mechanism Assembly
+#Silly Putty Pan Mechanism Assembly
 
 
 ![Step1Components(SPPan).png](/Assembly_Guide_Pictures/Step1Components(SPPan).png)
@@ -198,7 +200,7 @@
 
 
 
-##Pendulum Assembly
+#Pendulum Assembly
 
 
 
@@ -221,7 +223,7 @@
 
 ![PendulumComplete.png](/Assembly_Guide_Pictures/PendulumComplete.png)
 
-##Connections
+#Connections
 
 ![Header(PendulumtoSP).png](/Assembly_Guide_Pictures/Header(PendulumtoSP).png)
 
@@ -251,7 +253,7 @@
 
 ![BothRigsComplete.png](/Assembly_Guide_Pictures/BothRigsComplete.png)
 
-##Pole Rig Assembly
+#Pole Rig Assembly
 
 ![Step1Components(Pole).png](/Assembly_Guide_Pictures/Step1Components(Pole).png)
 
@@ -267,7 +269,7 @@
 
 ![Complete(Pole).png](/Assembly_Guide_Pictures/Complete(Pole).png)
 
-##Usage Notes
+#Usage Notes
 
 ![Usage(SP).png](/Assembly_Guide_Pictures/Usage(SP).png)
 
@@ -275,7 +277,7 @@
 
 ![Header(DesignNotes).png](/Assembly_Guide_Pictures/Header(DesignNotes).png)
 
-##Part Notes
+#Part Notes
 
 ![DesignNote(ThumbScrew).png](/Assembly_Guide_Pictures/DesignNote(ThumbScrew).png)
 
