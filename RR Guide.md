@@ -5,9 +5,9 @@
 
 [Parts List](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#parts-list)
 
-[Landscape Rig Assembly](##Landscape_Rig_Assembly)
+[Landscape Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#landscape-rig-assembly)
 
-[Portrait Rig Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
+[Portrait Rig Assembly]()
 
 [Silly Putty Pan Mechanism Assembly](/Assembly_Guide_Pictures/Header(SP).png)
 
@@ -121,7 +121,7 @@
 ![LandscapeRigComplete.png](/Assembly_Guide_Pictures/LandscapeRigComplete.png)
 
 
-##Portrait Rig Assembly
+#Portrait Rig Assembly
 
 
 ![Step1Components(Portrait).png](/Assembly_Guide_Pictures/Step1Components(Portrait).png)
