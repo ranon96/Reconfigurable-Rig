@@ -19,7 +19,7 @@
 
 [Usage Notes](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#usage-notes)
 
-[Design Notes on Parts](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#part-notes)
+[Design Notes on Parts](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#design-notes-on-parts)
 
 #Parts List
 
