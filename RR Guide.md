@@ -3,6 +3,8 @@
 
 #Table of Contents
 
+[Parts List](##Parts_List)
+
 [Landscape Rig Assembly](##Landscape_Rig_Assembly)
 
 [Portrait Rig Assembly](/Assembly_Guide_Pictures/Header(Portrait).png)
