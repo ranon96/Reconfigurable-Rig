@@ -3,7 +3,7 @@
 
 #Table of Contents
 
-[Parts List](##Parts_List)
+[Parts List](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#parts-list)
 
 [Landscape Rig Assembly](##Landscape_Rig_Assembly)
 
