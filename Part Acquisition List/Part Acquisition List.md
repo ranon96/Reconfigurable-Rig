@@ -2,7 +2,7 @@
 
 ![#6 Nylon Spacer](/Part Acquisition List/6Spacer.png)
 
-![#6 Tooth Washer](/Part Acquisition List/6ToothWasher)
+![#6 Tooth Washer](/Part Acquisition List/6ToothWasher.png)
 
 ![#6 Nylon Washer](/Part Acquisition List/6Washer.png)
 
