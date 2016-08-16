@@ -11,8 +11,8 @@ This is an aerial photography rig which includes hardware and a set of laser cut
 
 It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a design by Simon Harbord.
 
-###This repository contains:
+##This repository contains:
 
-[Part Acquisition List](Part Acquisition List)
+
 
 [Assembly Guide](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#table-of-contents)
