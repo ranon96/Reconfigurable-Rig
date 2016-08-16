@@ -1,32 +1,32 @@
-![#1 or #2 Wood Screw](/Part Acquisition List/#1Screw.png)
+![#1 or #2 Wood Screw](/Part Acquisition List/1Screw.png)
 
-![#6 Nylon Spacer](/Part Acquisition List/#6Spacer.png)
+![#6 Nylon Spacer](/Part Acquisition List/6Spacer.png)
 
-![#6 Tooth Washer](/Part Acquisition List/#6ToothWasher)
+![#6 Tooth Washer](/Part Acquisition List/6ToothWasher)
 
-![#6 Nylon Washer](/Part Acquisition List/#6Washer.png)
+![#6 Nylon Washer](/Part Acquisition List/6Washer.png)
 
-![#12 Nylon Washer](/Part Acquisition List/#12Washer.png)
+![#12 Nylon Washer](/Part Acquisition List/12Washer.png)
 
-![1/2" ID O-Ring](/Part Acquisition List/1/2ORing.png)
+![1/2" ID O-Ring](/Part Acquisition List/1-2ORing.png)
 
-![1/4-20 Thumb Screw](/Part Acquisition List/1/4-20ThumbScrew.png)
+![1/4-20 Thumb Screw](/Part Acquisition List/1-4-20ThumbScrew.png)
 
-![1/4" Dowel](/Part Acquisition List/1/4Dowel.png)
+![1/4" Dowel](/Part Acquisition List/1-4Dowel.png)
 
-![1/4" ID Tooth Washer](/Part Acquisition List/1/4ToothWasher.png)
+![1/4" ID Tooth Washer](/Part Acquisition List/1-4ToothWasher.png)
 
-![1/4" ID Tube Clamp](/Part Acquisition List/1/4TubeClamp.png)
+![1/4" ID Tube Clamp](/Part Acquisition List/1-4TubeClamp.png)
 
-![1/4" ID Vinyl Covered Tube Clamp](/Part Acquisition List/1/4VinylClamp.png)
+![1/4" ID Vinyl Covered Tube Clamp](/Part Acquisition List/1-4VinylClamp.png)
 
-![1/4" ID Washer](/Part Acquisition List/1/4Washer.png)
+![1/4" ID Washer](/Part Acquisition List/1-4Washer.png)
 
-![3/8" OD Polyethylene Tubing](/Part Acquisition List/3/8Tubing.png)
+![3/8" OD Polyethylene Tubing](/Part Acquisition List/3-8Tubing.png)
 
-![5/16" ID Tube Clamp](/Part Acquisition List/5/16TubeClamp.png)
+![5/16" ID Tube Clamp](/Part Acquisition List/5-16TubeClamp.png)
 
-![5/16" OD Polyethylene Tubing](/Part Acquisition List/5/16Tubing.png)
+![5/16" OD Polyethylene Tubing](/Part Acquisition List/5-16Tubing.png)
 
 ![6-32 Nylon Acorn Nut](/Part Acquisition List/6-32AcornNut.png)
 
