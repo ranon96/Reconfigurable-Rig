@@ -1,6 +1,8 @@
 # Reconfigurable Rig
 
-This is an aerial photography rig which includes hardware and a set of laser cut or 3D printed plates. It can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
+This is an aerial photography rig designed as a project of [Public Lab](http://www.publiclab.org) which includes hardware and a set of laser cut or 3D printed plates. The goal is to create an affordable yet versatile rig that can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
+
+
 
 ![ReconfigurableRigConfigurationRenders.png](/Assembly_Guide_Pictures/ReconfigurableRigConfigurationRenders.png)
 
@@ -16,13 +18,8 @@ This is an aerial photography rig which includes hardware and a set of laser cut
 
 It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a design by Simon Harbord.
 
-##This repository contains:
+##About this project
 
+The Reconfigurable Rig repository is a project of [Public Lab](http://www.publiclab.org) to create an easily obtainable and modifiable aerial photography rig.
 
-[Part Acquisition List](Part Acquisition List)
-
-
-
-[Assembly Guide](https://github.com/ranon96/Reconfigurable-Rig/blob/master/RR%20Guide.md#table-of-contents)
-
-[
+To find out more about the design process behind this project, review the [Public Lab research notes](https://publiclab.org/profile/ranon) behind this project. To learn more about contributing, please read our [contribution guidelines](https://github.com/mathewlippincott/TALA/blob/master/CONTRIBUTE.md). 
