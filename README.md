@@ -2,11 +2,11 @@
 
 This is an aerial photography rig which includes hardware and a set of laser cut or 3D printed plates. It can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
 
-![ReconfigurableRigConfigurationRenders.png](ReconfigurableRigConfigurationRenders.png)
+![ReconfigurableRigConfigurationRenders.png](/Assembly_Guide_Pictures/ReconfigurableRigConfigurationRenders.png)
 
 
 
-![RubberBandUsage.png](RubberBandUsage.png)
+![RubberBandUsage.png](/Assembly_Guide_Pictures/RubberBandUsage.png)
 
 
 It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a design by Simon Harbord.
