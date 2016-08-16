@@ -22,4 +22,4 @@ It features a rubber band powered pan mechanism which uses a pipe fitting filled
 
 The Reconfigurable Rig repository is a project of [Public Lab](http://www.publiclab.org) to create an easily obtainable and modifiable aerial photography rig.
 
-To find out more about the design process behind this project, review the [Public Lab research notes](https://publiclab.org/profile/ranon) behind this project. To learn more about contributing, please read our [contribution guidelines](https://github.com/mathewlippincott/TALA/blob/master/CONTRIBUTE.md). 
+To find out more about the design process behind this project, review the [Public Lab research notes](https://publiclab.org/profile/ranon) behind this project. To learn more about contributing, please read our [contribution guidelines](CONTRIBUTE.md). 
