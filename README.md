@@ -4,7 +4,7 @@ This is an aerial photography rig which includes hardware and a set of laser cut
 
 ![ReconfigurableRigConfigurationRenders.png](/Assembly_Guide_Pictures/ReconfigurableRigConfigurationRenders.png)
 
-[Landscape Rig](Landscape Rig) [Portrait Rig](Portriat Rig) [Pole Rig](Pole Rig) [Servo Powered Landscape Rig](Servo Powered Landscape Rig)
+[Landscape Rig](Landscape Rig) [Portrait Rig](Portrait Rig) [Pole Rig](Pole Rig) [Servo Powered Landscape Rig](Servo Powered Landscape Rig)
 
 
 
