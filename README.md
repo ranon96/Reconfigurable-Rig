@@ -2,7 +2,7 @@
 
 This is an aerial photography rig designed as a project of [Public Lab](http://www.publiclab.org) which includes hardware and a set of laser cut or 3D printed plates. The goal is to create an affordable yet versatile rig that can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
 
-
+For information on assembling your own Reconfigurable Rig, see the [part acquisition list](/Part Acquisition List/Part_Acquisition_List.md) and [assembly guide](Reconfigurable_Rig_Full_Assembly_Guide.md).
 
 ![ReconfigurableRigConfigurationRenders.png](/Assembly_Guide_Pictures/ReconfigurableRigConfigurationRenders.png)
 
@@ -16,7 +16,7 @@ This is an aerial photography rig designed as a project of [Public Lab](http://w
 ![RubberBandUsage.png](/Assembly_Guide_Pictures/RubberBandUsage.png)
 
 
-It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a design by Simon Harbord.
+It features a rubber band powered pan mechanism which uses a pipe fitting filled with silly putty as resistance, inspired by a [design](https://billboyheritagesurvey.wordpress.com/2013/01/30/the-simon-harbord-silly-putty-sp-rig/) by Simon Harbord.
 
 ##About this project
 
