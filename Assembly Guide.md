@@ -38,6 +38,8 @@
 
 ![PartsListLine5.png](/Assembly_Guide_Pictures/PartsListLine5.png)
 
+![PartsList(Servo)](/Assembly_Guide_Pictures/PartsList(Servo).png)
+
 
 #Landscape Rig Assembly
 
@@ -268,6 +270,62 @@
 ![Step3Assembly(Pole).png](/Assembly_Guide_Pictures/Step3Assembly(Pole).png)
 
 ![Complete(Pole).png](/Assembly_Guide_Pictures/Complete(Pole).png)
+
+#Servo Powered Landscape Rig
+
+![Step1Components(Servo)](/Assembly_Guide_Pictures/Step1Components(Servo).png)
+
+![Step1Assembly(Servo)](/Assembly_Guide_Pictures/Step1Assembly(Servo).png)
+
+![Step2Components(Servo)](/Assembly_Guide_Pictures/Step2Components(Servo).png)
+
+![Step2Assembly(Servo)](/Assembly_Guide_Pictures/Step2Assembly(Servo).png)
+
+![Step3Components(Servo)](/Assembly_Guide_Pictures/Step3Components(Servo).png)
+
+![Step3Assembly(Servo)](/Assembly_Guide_Pictures/Step3Assembly(Servo).png)
+
+![Step4Components(Servo)](/Assembly_Guide_Pictures/Step4Components(Servo).png)
+
+![Step4Assembly(Servo)](/Assembly_Guide_Pictures/Step4Assembly(Servo).png)
+
+![Step5Components(Servo)](/Assembly_Guide_Pictures/Step5Components(Servo).png)
+
+![Step5Assembly(Servo)](/Assembly_Guide_Pictures/Step5Assembly(Servo).png)
+
+![Step6Components(Servo)](/Assembly_Guide_Pictures/Step6Components(Servo).png)
+
+![Step6Assembly(Servo)](/Assembly_Guide_Pictures/Step6Assembly(Servo).png)
+
+![Step7Components(Servo)](/Assembly_Guide_Pictures/Step7Components(Servo).png)
+
+![Step7Assembly(Servo)](/Assembly_Guide_Pictures/Step7Assembly(Servo).png)
+
+![Step8Components(Servo)](/Assembly_Guide_Pictures/Step8Components(Servo).png)
+
+![Step8Assembly(Servo)](/Assembly_Guide_Pictures/Step8Assembly(Servo).png)
+
+![Step9Components(Servo)](/Assembly_Guide_Pictures/Step9Components(Servo).png)
+
+![Step9Assembly(Servo)](/Assembly_Guide_Pictures/Step9Assembly(Servo).png)
+
+![Step10Components(Servo)](/Assembly_Guide_Pictures/Step10Components(Servo).png)
+
+![Step10Assembly(Servo)](/Assembly_Guide_Pictures/Step10Assembly(Servo).png)
+
+![Step11Components(Servo)](/Assembly_Guide_Pictures/Step11Components(Servo).png)
+
+![Step1Assembly(Servo)](/Assembly_Guide_Pictures/Step11Assembly(Servo).png)
+
+![Step12Components(Servo)](/Assembly_Guide_Pictures/Step12Components(Servo).png)
+
+![Step1Assembly(Servo)](/Assembly_Guide_Pictures/Step12Assembly(Servo).png)
+
+![Step13Components(Servo)](/Assembly_Guide_Pictures/Step13Components(Servo).png)
+
+![Step13Assembly(Servo)](/Assembly_Guide_Pictures/Step1Assembly(Servo).png)
+
+![Complete(Servo)](/Assembly_Guide_Pictures/Complete(Servo).png)
 
 #Usage Notes
 
