@@ -17,6 +17,8 @@
 
 [Pole Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/Assembly%20Guide.md#pole-rig-assembly)
 
+[Servo Powered Landscape Rig Assembly](https://github.com/ranon96/Reconfigurable-Rig/blob/master/Assembly%20Guide.md#servo-powered-landscape-rig)
+
 [Usage Notes](https://github.com/ranon96/Reconfigurable-Rig/blob/master/Assembly%20Guide.md#usage-notes)
 
 [Design Notes on Parts](https://github.com/ranon96/Reconfigurable-Rig/blob/master/Assembly%20Guide.md#design-notes-on-parts)
