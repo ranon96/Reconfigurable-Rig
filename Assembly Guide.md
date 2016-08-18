@@ -325,7 +325,7 @@
 
 ![Step13Components(Servo)](/Assembly_Guide_Pictures/Step13Components(Servo).png)
 
-![Step13Assembly(Servo)](/Assembly_Guide_Pictures/Step1Assembly(Servo).png)
+![Step13Assembly(Servo)](/Assembly_Guide_Pictures/Step13Assembly(Servo).png)
 
 ![Complete(Servo)](/Assembly_Guide_Pictures/Complete(Servo).png)
 
