@@ -1,4 +1,4 @@
-![#1 or #2 Wood Screw](/Part Acquisition List/1Screw.png)
+#Part Acquisition List
 
 ![#6 Nylon Spacer](/Part Acquisition List/6Spacer.png)
 
@@ -61,3 +61,34 @@
 ![14-Gauge Coated Wire](/Part Acquisition List/Wire.png)
 
 ![1/4" ID X-Profile O-Ring](/Part Acquisition List/XProfileORing.png)
+
+#Part Acquisition List (Servo Option)
+
+![Servo11-2"ScrewAcquisition](/Part Acquisition List/Servo11-2"ScrewAcquisition.png) 
+
+![Servo21-2"ScrewAcquisition](/Part Acquisition List/Servo21-2"ScrewAcquisition.png) 
+
+![ServoArduinoAcquisition](/Part Acquisition List/ServoArduinoAcquisition.png) 
+
+![ServoBatteryAcquisition](/Part Acquisition List/ServoBatteryAcquisition.png) 
+
+![ServoBatteryPlateAcquisition](/Part Acquisition List/ServoBatteryPlateAcquisition.png) 
+
+![ServoHexNutAcquisition](/Part Acquisition List/ServoHexNutAcquisition.png) 
+
+![ServoNylonSpacerAcquisition](/Part Acquisition List/ServoNylonSpacerAcquisition.png) 
+
+![ServoPanAcquisition](/Part Acquisition List/ServoPanAcquisition.png) 
+
+![ServoPanPlateAcquisition](/Part Acquisition List/ServoPanPlateAcquisition.png) 
+
+![ServoPanRotorAcquisition](/Part Acquisition List/ServoPanRotorAcquisition.png) 
+
+![ServoPulleyAcquisition](/Part Acquisition List/ServoPulleyAcquisition.png) 
+
+![ServoScrewAcquisition](/Part Acquisition List/ServoScrewAcquisition.png) 
+
+![ServoTiltAcquisition](/Part Acquisition List/ServoTiltAcquisition.png) 
+
+![ServoTiltPlateAcquisition](/Part Acquisition List/ServoTiltPlateAcquisition.png) 
+
