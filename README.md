@@ -1,6 +1,6 @@
 # Reconfigurable Rig
 
-This is an aerial photography rig designed as a project of [Public Lab](http://www.publiclab.org) which includes hardware and a set of laser cut or 3D printed plates. The goal is to create an affordable yet versatile rig that can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
+This is an aerial photography rig designed as a project of [Public Lab](http://www.publiclab.org) as part of my [Autodesk Student Expert](http://www.studentexpert.net/en/job-postings/autdesk-intern) internship, which includes hardware and a set of laser cut or 3D printed plates. The goal is to create an affordable yet versatile rig that can be reconfigured in a number of ways for use in pole, balloon, and kite aerial photography.
 
 For information on assembling your own Reconfigurable Rig, see the [part acquisition list](/Part Acquisition List/Part Acquisition List.md) and [assembly guide](Assembly Guide.md).
 
